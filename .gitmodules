@@ -1,0 +1,3 @@
+[submodule "CanvasBubbles"]
+	path = CanvasBubbles
+	url = https://github.com/AllanFox/CanvasBubbles.git
